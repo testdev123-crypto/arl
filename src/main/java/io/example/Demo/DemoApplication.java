@@ -20,6 +20,10 @@ public class DemoApplication {
 		System.out.println("testing");
 		System.out.println("Hi");
 		System.out.println("testing");
+		System.out.println("Hi");
+		System.out.println("testing");
+		System.out.println("Hi");
+		System.out.println("testing");
 	}
 
 }
